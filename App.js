@@ -1,4 +1,3 @@
-import { exp } from "react-native/Libraries/Animated/src/Easing";
 import { createAppContainer } from "react-navigation";
 import { createStackNavigator } from "react-navigation-stack";
 import IndexScreen from "./src/screens/IndexScreen";
